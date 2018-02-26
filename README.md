@@ -11,3 +11,13 @@ Salvator is a multi-host backup service which means you have a dashboard to conf
 
 ## Screenshots
 ![Salvator Screenshot](https://github.com/SalvatorBackup/salvator/raw/master/img/screenshot.png)
+
+## Error reporting
+Currently, to improve bug response, Rollbar is enabled and live-reports errors that you could have with Salvator (on agent and on server).
+
+## Contributing
+You can contribute in many ways:
+* Make a PR
+* Submit an ideas
+* Report bugs
+* Donate
